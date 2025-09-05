@@ -1,0 +1,15 @@
+# Ignore Visual Studio files
+.vs/
+*.vsidx
+
+# Ignore Node modules
+node_modules/
+
+# Ignore build output
+dist/
+bin/
+obj/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
